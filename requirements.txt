@@ -1,5 +1,10 @@
 pyrogram==2.0.106
-tgcrypto
 sqlalchemy
 aiohttp
 requests
+pyrogram==2.0.106
+sqlalchemy
+aiohttp
+requests
+pysocks==1.7.1
+pyaes==1.6.1
